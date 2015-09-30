@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易粹言
-#+DATE: 2015-09-23 09:34:31
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 21:54:58.166297
+#+PROPERTY: ID KR1a0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十六
 <pb:KR1a0041_WYG_056-1a>¶
 欽定四庫全書¶
 　大易粹言卷五十六　　　宋　方聞一　編¶
@@ -218,4 +220,3 @@
 　¶
 　¶
 　大易粹言卷五十六¶
-

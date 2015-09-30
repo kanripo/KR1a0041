@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易粹言
-#+DATE: 2015-09-23 09:34:31
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:54:57.251642
+#+PROPERTY: ID KR1a0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0041_WYG_005-1a>¶
 欽定四庫全書¶
 　大易粹言卷五　　　　宋　方聞一　編¶
@@ -236,4 +238,3 @@
 　然是為需之主然水行需舟陸行需車莫非需也卦¶
 　特言其大者耳(易/説)¶
 　大易粹言卷五¶
-

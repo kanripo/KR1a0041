@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易粹言
-#+DATE: 2015-09-23 09:34:31
-#+PROPERTY: JUAN 48
+#+DATE: 2015-08-24 21:54:58.033305
+#+PROPERTY: ID KR1a0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八
 <pb:KR1a0041_WYG_048-1a>¶
 欽定四庫全書¶
 　大易粹言卷四十八　　　宋　方聞一　編¶
@@ -236,4 +238,3 @@
 　成盡无吉之道也(易/說)¶
 　¶
 　大易粹言卷四十八¶
-
